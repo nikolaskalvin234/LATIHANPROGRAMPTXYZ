@@ -1,0 +1,16 @@
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.csproj.AssemblyReference.cache
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.AssemblyInfoInputs.cache
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.AssemblyInfo.cs
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.csproj.CoreCompileInputs.cache
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.exe
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.deps.json
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.runtimeconfig.json
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.runtimeconfig.dev.json
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.dll
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\ref\Latihan program PT XYZ.dll
+C:\Users\kalvi\Documents\Latihan program PT XYZ\bin\Debug\net5.0\Latihan program PT XYZ.pdb
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.dll
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\ref\Latihan program PT XYZ.dll
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.pdb
+C:\Users\kalvi\Documents\Latihan program PT XYZ\obj\Debug\net5.0\Latihan program PT XYZ.genruntimeconfig.cache
